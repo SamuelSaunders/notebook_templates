@@ -29,4 +29,12 @@ Run the Notebook server in a screen session.
 Ensure the `Kernal` selected matches that of your virtualenv.
 
 
-## Saving Notebooks 
+## Sharing Notebooks
+
+### Public Notebooks
+
+Use http://nbviewer.jupyter.org/ with the public URL of the notebook.
+
+### Private Notebooks
+
+Upload a secret Gist and link it via the secret URL on http://nbviewer.jupyter.org/.
